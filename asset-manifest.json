@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VotingSystem.DApp/static/css/main.f4947ffd.css",
+    "main.js": "/VotingSystem.DApp/static/js/main.4435de06.js",
+    "static/js/453.63c4db86.chunk.js": "/VotingSystem.DApp/static/js/453.63c4db86.chunk.js",
+    "index.html": "/VotingSystem.DApp/index.html",
+    "main.f4947ffd.css.map": "/VotingSystem.DApp/static/css/main.f4947ffd.css.map",
+    "main.4435de06.js.map": "/VotingSystem.DApp/static/js/main.4435de06.js.map",
+    "453.63c4db86.chunk.js.map": "/VotingSystem.DApp/static/js/453.63c4db86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4947ffd.css",
+    "static/js/main.4435de06.js"
+  ]
+}
